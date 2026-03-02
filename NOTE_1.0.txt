@@ -2,45 +2,17 @@ What is a Server?
 --------------------------------
 in a simple language we can say that Server is a computer or program that is always on and connected to the internet. it receives requests from clients processes them and sends back responses.
 ------------------------------------------
-You -> Customer
 
-Waiter -> Server
-
-Kitchen -> Database
-
-When you order food, the waiter takes your request to the kitchen and brings back your food.
 -------------------------
-In the same way:
 
-You (browser / app) send a request
-
-Server receives the request
-
-Server processes it (maybe talks to database)
-
-Server sends back a response
 ------------------------------------------
-Types of Servers
 
-
-Web Server -> Serves websites
-Database Server -> Stores and gives data
-File Server -> Stores files
-Mail Server -> Sends emails
 ------------------------------------------
-------------------------------------------
-What is Cloud?
-
-
-Instead of saving your photos on your own computer, you save them on Google Drive.
-
-Where are those photos actually stored?
-
- On some computer somewhere in the world.
- That big powerful computer is in a data center.
- That system is called Cloud.
 
 
 
-==> Cloud is a network of remote servers hosted on the Internet that store, manage, and process data, instead of a local server or personal computer.
+
+
+
+
 
